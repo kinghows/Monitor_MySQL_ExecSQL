@@ -1,6 +1,8 @@
 # Monitor_MySQL_ExecSQL
 Monitor MySQL execute SQL
 
+Test in python3.8
+
 Need install mysqlclient:
 
 pip install mysqlclient
